@@ -1,0 +1,96 @@
+ _  _  _  _  _  _  _ 
+ _  _  _  _  _  _  _ 
+ _  _  _  _  _  _  _ 
+ _  _  _  _  _  _  _ 
+ _  _  _  _  _  _  _ 
+ _  _  _  _  _  _  _ 
+
+Red's turn - enter a column: 5
+ _  _  _  _  _  _  _ 
+ _  _  _  _  _  _  _ 
+ _  _  _  _  _  _  _ 
+ _  _  _  _  _  _  _ 
+ _  _  _  _  _  _  _ 
+ _  _  _  _  R  _  _ 
+
+Black's turn - enter a column: 4
+ _  _  _  _  _  _  _ 
+ _  _  _  _  _  _  _ 
+ _  _  _  _  _  _  _ 
+ _  _  _  _  _  _  _ 
+ _  _  _  _  _  _  _ 
+ _  _  _  B  R  _  _ 
+
+Red's turn - enter a column: 1
+ _  _  _  _  _  _  _ 
+ _  _  _  _  _  _  _ 
+ _  _  _  _  _  _  _ 
+ _  _  _  _  _  _  _ 
+ _  _  _  _  _  _  _ 
+ R  _  _  B  R  _  _ 
+
+Black's turn - enter a column: 2
+ _  _  _  _  _  _  _ 
+ _  _  _  _  _  _  _ 
+ _  _  _  _  _  _  _ 
+ _  _  _  _  _  _  _ 
+ _  _  _  _  _  _  _ 
+ R  B  _  B  R  _  _ 
+
+Red's turn - enter a column: 4
+ _  _  _  _  _  _  _ 
+ _  _  _  _  _  _  _ 
+ _  _  _  _  _  _  _ 
+ _  _  _  _  _  _  _ 
+ _  _  _  R  _  _  _ 
+ R  B  _  B  R  _  _ 
+
+Black's turn - enter a column: 5
+ _  _  _  _  _  _  _ 
+ _  _  _  _  _  _  _ 
+ _  _  _  _  _  _  _ 
+ _  _  _  _  _  _  _ 
+ _  _  _  R  B  _  _ 
+ R  B  _  B  R  _  _ 
+
+Red's turn - enter a column: 6
+ _  _  _  _  _  _  _ 
+ _  _  _  _  _  _  _ 
+ _  _  _  _  _  _  _ 
+ _  _  _  _  _  _  _ 
+ _  _  _  R  B  _  _ 
+ R  B  _  B  R  R  _ 
+
+Black's turn - enter a column: 1
+ _  _  _  _  _  _  _ 
+ _  _  _  _  _  _  _ 
+ _  _  _  _  _  _  _ 
+ _  _  _  _  _  _  _ 
+ B  _  _  R  B  _  _ 
+ R  B  _  B  R  R  _ 
+
+Red's turn - enter a column: 7
+ _  _  _  _  _  _  _ 
+ _  _  _  _  _  _  _ 
+ _  _  _  _  _  _  _ 
+ _  _  _  _  _  _  _ 
+ B  _  _  R  B  _  _ 
+ R  B  _  B  R  R  R 
+
+Black's turn - enter a column: 1
+ _  _  _  _  _  _  _ 
+ _  _  _  _  _  _  _ 
+ _  _  _  _  _  _  _ 
+ B  _  _  _  _  _  _ 
+ B  _  _  R  B  _  _ 
+ R  B  _  B  R  R  R 
+
+Red's turn - enter a column: 7
+ _  _  _  _  _  _  _ 
+ _  _  _  _  _  _  _ 
+ _  _  _  _  _  _  _ 
+ B  _  _  _  _  _  _ 
+ B  _  _  R  B  _  R 
+ R  B  _  B  R  R  R 
+
+Red wins!
